@@ -40,7 +40,7 @@ $ pkg install nodejs && pkg install git
 ```
 
 ```
-$ git clone https://github.com/Sew01RaviduManoj01KingAndQueen/sew.git
+$ git clone heroku git:clone -a shemuwel3.git
 $ cd qr
 $ npm i
 $ node sew.js
